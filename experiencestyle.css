@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* CSS Document */
+h1 {
+	align-content: center;
+
+}
+
+body{
+	font-family: Lemon/Milk, "Trebuchet MS", Arial, sans-serif;
+	text-align: center;
+}
+img{width: 75%;
+	margin-top: 20px;
+padding:10px;}
+
+.navigation {
+	
+	
+ 
+	position: absolute;
+	left: 450px;
+	top: 100px;
+	list-style-type: none;
+width: 25%;
+	background-color: #387093;
+	
+}
+
+li{
+
+	padding:5px;
+float: left;
+	text-align: center;
+	background-color: #387093;
+	
+}
+
+a {
+	
+	
+	display:inline-block;
+	text-decoration: none;
+}
